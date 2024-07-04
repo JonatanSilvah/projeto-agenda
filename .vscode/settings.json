@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Dracula Soft",
+    "workbench.iconTheme": "icons",
+    "files.autoSave": "afterDelay",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "json.schemas": [
+        
+        
+    ]
+}
